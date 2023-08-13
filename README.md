@@ -33,7 +33,7 @@ Windows support will be added in the near future.
 
 ## How Does it Work?
 
-I'll give you a simple rundown of how BRSDE works.
+I'll give you a detailed rundown of how BRSDE works.
 
 ### Linux
 
@@ -45,7 +45,7 @@ The first text file contains information such as...
 * The description of your server.
 * The size of your server's lobby.
 * Whether the teams are automatically balanced in certain gamemodes.
-* Whether the AI train is enabled
+* Whether the AI train is enabled.
 * Whether server admins are exempt from player rules.
 * Whether players can godmode themselves.
 * Whether players can spawn anywhere in your server.
@@ -62,3 +62,5 @@ The first text file contains information such as...
 * The maximum brick count of a single vehicle in your server.
 * The number of vehicles a player is able to spawn.
 * The vehicle price factor from a scale from 0 to 1.
+
+The second text file contains 4 Steam profile IDs that are 'permabanned' from the game. There's some speculation around these 4 accounts, but not enough information to come up with a definite conclusion.
