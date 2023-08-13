@@ -35,7 +35,7 @@ Windows support will be added in the near future.
 
 I'll give you a simple rundown of how BRSDE works.
 
-###Linux
+### Linux
 
 BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for...
 
