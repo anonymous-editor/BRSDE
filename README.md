@@ -37,7 +37,7 @@ I'll give you a simple rundown of how BRSDE works.
 
 ### Linux
 
-BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for singleplayer and multiplayer sessions. The latter command  adds prefixes to the output of the former command to make it more commfortable to read. Once the '''grep''' command pulls the necessary data, it sends that data to two text files in your BRSDE folder, ```multiplayer.txt```, and ```permabannedids.txt```. 
+BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for singleplayer and multiplayer sessions. The latter command  adds prefixes to the output of the former command to make it more commfortable to read. Once the '''grep''' command pulls the necessary data, it sends that data to two text files in your BRSDE folder, ```info.txt```, and ```permabannedids.txt```. 
 
 The first text file contains information such as...
 
@@ -53,3 +53,12 @@ The first text file contains information such as...
 * Whether explosions are enabled.
 * Whether the default in-game buildings can collapse.
 * Whether players can enter creations without a seat in them.
+* Whether players can delete a vehicle that wasn't spawned by them.
+* Whether players can freecam in your server.
+* Whether players can have an infinite amount of ammunition.
+* Whether vehicles can have an infinite amount of fuel in them.
+* The maximum number of dummies that can be spawn in your server.
+* Whether the vehicle whitelist is enabled.
+* The maximum brick count of a single vehicle in your server.
+* The number of vehicles a player is able to spawn.
+* The vehicle price factor from a scale from 0 to 1.
