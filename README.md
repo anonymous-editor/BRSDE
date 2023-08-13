@@ -4,10 +4,16 @@ The Brick Rigs Server Data Exporter is a bash script to pull certain pieces of d
 
 ## Prerequesties
 
+Ensure that you follow the directions for your O/S.
+
+### Linux
+
+The following package,
+
 ```
 yad
 ```
-'yad' is necessary for BRSDE's GUI to work.
+is necessary for BRSDE's GUI to work.
 
 
 (Windows support is planned to be added in the future.)
