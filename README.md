@@ -17,11 +17,12 @@ yad
 ```
 You can install yad from most package managers in your Linux distribution.
 
-Once you have yad installed onto your Linux system, download and extract the 'BRSDE_Linux' zip archive from the releases tab, and run the following commands:
+Once you have yad installed onto your Linux system, download and extract the BRSDE.sh from the latest release, and run the following commands:
 ```
-cd (insert the directory you downloaded BRSDE to)/BRSDE
 sudo chmod +x ./BRSDE.sh
 ```
+I **STRONGLY** recommend that you create a new folder dedicated for BRSDE in somewhere else than the Downloads folder.
+
 Then, replace all instances of '/home/tlm' in the script with your username. You can find this by running
 ```
 echo $HOME
