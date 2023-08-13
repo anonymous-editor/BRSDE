@@ -7,7 +7,6 @@ The Brick Rigs Server Data Exporter is a GUI tool to pull certain pieces of data
 * Steam
 * Brick Rigs
 
-
 Ensure that you follow the directions for your O/S.
 
 ### Linux
@@ -32,7 +31,15 @@ from your local terminal.
 ### Windows
 Windows support should be added in the near future.
 
-## Instructions
+## How Does it Work?
+
+BRSDE works by using two types of commands
+```
+grep
+```
+and
+```
+sed
+```
 
 I'll give you a simple rundown of how to use BRSDE.
-
