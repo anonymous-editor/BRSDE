@@ -31,7 +31,7 @@ To run the program, simply run
 ```
 ./BRSDE.sh
 ```
-from your local terminal.
+from wherever you put the script.
 
 ### Windows
 Windows support will be added in the future.
