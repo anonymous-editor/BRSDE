@@ -29,7 +29,7 @@ To run the program, simply run
 from your local terminal.
 
 ### Windows
-Windows support will be added in the near future.
+Windows support will be added in the future.
 
 ## How Does it Work?
 
@@ -38,6 +38,11 @@ I'll give you a detailed rundown of how BRSDE works.
 ### Linux
 
 BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for singleplayer and multiplayer sessions. The latter command  adds prefixes to the output of the former command to make it more commfortable to read. Once the '''grep''' command pulls the necessary data, it sends that data to two text files in your BRSDE folder, ```info.txt```, and ```permabannedids.txt```. 
+
+### Windows
+Windows support will be added in the future.
+
+### General Information
 
 The first text file contains information such as...
 
