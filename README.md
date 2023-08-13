@@ -1,6 +1,6 @@
-# BRSDE
+# Brick Rigs Server Data Exporter
 
-The Brick Rigs Server Data Exporter is a GUI to pull certain pieces of data from Brick Rigs's 'Game.ini' file. 
+The Brick Rigs Server Data Exporter (BRSDE) is a GUI to pull certain pieces of data from Brick Rigs's 'Game.ini' file. 
 
 ## Prerequesties
 
