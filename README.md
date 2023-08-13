@@ -22,8 +22,13 @@ Once you have yad installed onto your Linux system, download the 'BRSDE_Linux' z
 cd (insert the directory you downloaded BRSDE to)/BRSDE
 sudo chmod +x ./BRSDE.sh
 ```
+
 To run the program, simply run
+
 ```
 ./BRSDE.sh
 ```
+
 from the terminal.
+
+### Linux
