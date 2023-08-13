@@ -47,4 +47,9 @@ The first text file contains information such as...
 * Whether the teams are automatically balanced in certain gamemodes.
 * Whether the AI train is enabled
 * Whether server admins are exempt from player rules.
+* Whether players can godmode themselves.
+* Whether players can spawn anywhere in your server.
+* Whether players can use weapons in your server.
+* Whether explosions are enabled.
+* Whether the default in-game buildings can collapse.
 * 
