@@ -1,6 +1,6 @@
 # BRSDE
 
-The Brick Rigs Server Data Exporter is a bash script to pull certain pieces of data from Brick Rigs's 'Game.ini' file. 
+The Brick Rigs Server Data Exporter is a GUI tool to pull certain pieces of data from Brick Rigs's 'Game.ini' file. 
 
 ## Prerequesties
 
@@ -31,4 +31,9 @@ To run the program, simply run
 
 from the terminal.
 
-### Linux
+### Windows
+Windows support should be added in the near future.
+
+## About This Program
+
+
