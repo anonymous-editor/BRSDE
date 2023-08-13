@@ -5,7 +5,7 @@ The Brick Rigs Server Data Exporter is a GUI to pull certain pieces of data from
 ## Prerequesties
 
 * Steam
-* Brick Rigs
+* Brick Rigs (stable/experimental branch)
 
 Ensure that you follow the directions for your O/S.
 
@@ -52,4 +52,4 @@ The first text file contains information such as...
 * Whether players can use weapons in your server.
 * Whether explosions are enabled.
 * Whether the default in-game buildings can collapse.
-* 
+* Whether players can enter creations without a seat in them.
