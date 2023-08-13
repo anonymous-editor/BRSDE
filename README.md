@@ -37,4 +37,6 @@ I'll give you a simple rundown of how BRSDE works.
 
 ### Linux
 
-BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for singleplayer and multiplayer sessions. Once the '''grep''' command pulls the necessary data, it sends that data to two text files in your BRSDE folder, '''singleplayer.txt```, ```multiplayer.txt```, and '''permabannedids.txt'''.
+BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for singleplayer and multiplayer sessions. Once the '''grep''' command pulls the necessary data, it sends that data to three text files in your BRSDE folder, ```singleplayer.txt```, ```multiplayer.txt```, and ```permabannedids.txt```. These files contain information such as...
+
+* 
