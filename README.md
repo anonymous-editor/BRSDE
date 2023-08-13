@@ -29,17 +29,19 @@ To run the program, simply run
 from your local terminal.
 
 ### Windows
-Windows support should be added in the near future.
+Windows support will be added in the near future.
 
 ## How Does it Work?
 
-BRSDE works by using two types of commands
-```
-grep
-```
-and
-```
-sed
-```
+I'll give you a simple rundown of how BRSDE works.
+
+###Linux
+
+BRSDE works by using two commands, ```grep``` and ```sed```. The former command pulls the data from a special file called 'Game.ini'. This .ini file contains settings for...
+
+* Singleplayer sessions
+* Multiplayer sessions
+* Game Version
+* 
 
 I'll give you a simple rundown of how to use BRSDE.
