@@ -8,12 +8,22 @@ Ensure that you follow the directions for your O/S.
 
 ### Linux
 
-The following package,
+The following package is necessary for BRSDE's GUI to work.
 
 ```
 yad
 ```
-is necessary for BRSDE's GUI to work.
 
+You can install yad from most package managers in your Linux distribution.
 
-(Windows support is planned to be added in the future.)
+Once you have yad installed onto your Linux system, download the 'BRSDE_Linux' zip archive from the releases tab, and run the following commands:
+
+```
+cd (insert the directory you downloaded BRSDE to)/BRSDE
+sudo chmod +x ./BRSDE.sh
+```
+To run the program, simply run
+```
+./BRSDE.sh
+```
+from the terminal.
